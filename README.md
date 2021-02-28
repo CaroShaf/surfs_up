@@ -24,6 +24,7 @@ Temperature Histogram [https://github.com/CaroShaf/surfs_up/blob/main/Resources/
 June Temperature [https://github.com/CaroShaf/surfs_up/blob/main/Resources/JuneTemps.png]
 December Temperature [https://github.com/marketplace]
 
+
 ### Key difference in temperature between June and December
 Although there are about 200 fewer temperature observations due to two weather stations that contributed no readings after 2015, the data is still statistically valid. 
 
